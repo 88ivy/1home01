@@ -247,6 +247,9 @@ a.contactme:hover{
 .f_r{
     display: inline-block;
 }
+a.imghover:hover{
+    opacity: 0.6;
+}
 
 .projects{
     display: flex;
