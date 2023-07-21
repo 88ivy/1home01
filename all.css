@@ -255,13 +255,13 @@ a.imghover:hover{
 }
 .pj_l{
     max-width: 1290px;
- display: flex; 
- justify-content: end;
- margin-left: 115px;
+    margin-left: 100px;
+
 }
 .pj_txt{
-    text-align: left;
+
     width: 746px;
+margin-left: auto;
 }
 
 .pj_box{
