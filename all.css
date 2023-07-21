@@ -250,21 +250,25 @@ a.contactme:hover{
 a.imghover:hover{
     opacity: 0.6;
 }
-
 .projects{
-    display: flex;
-    justify-content: right;
-    flex-direction: column;
-    align-items: center;
     padding: 160px 0;
 }
-.pj_txt{
-    width: 746px;
-    margin-left: auto;
-    margin-right: 110px;
+.pj_l{
+    max-width: 1290px;
+ display: flex; 
+ justify-content: end;
+ margin-left: 110px;
 }
+.pj_txt{
+    text-align: left;
+    width: 746px;
+}
+
 .pj_box{
+    display: flex;
+    justify-content: center;
     display: block;
+
 }
 .mt_16{
     margin-bottom: 16px;
@@ -272,12 +276,7 @@ a.imghover:hover{
 .pj_box{
     display: flex;
 }
-.pj_l{
-margin-right: 24px;
-}
-.pj_r{
 
-}
 .see{
     display: flex;
     margin-bottom: 28px;
