@@ -247,8 +247,30 @@ a.contactme:hover{
 .f_r{
     display: inline-block;
 }
+.a_iconb{
+    width: 162px; 
+    height: 162px;
+    border-radius: 40px;
+  
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.a_icon1{
+    background-image: url(img/discord.png);
+    background-position: -19px -19pX;
+}
+.a_icon2{
+    background-image: url(img/instagram.png);
+        background-position: -4px -4pX;
+}
+.a_icon3{
+    background-image: url(img/message.png);
+    background-position: -4px -4pX;
+}
 a.imghover:hover{
-    opacity: 0.6;
+   border-radius: 40px;
+   box-shadow: 1px 0px 18px 4px #6f91ff;
 }
 .projects{
     padding: 160px 0;
