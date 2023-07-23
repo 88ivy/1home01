@@ -67,35 +67,26 @@ body {
   img {
     vertical-align: middle;
     max-width: 100%;
-  }
-  .header{
+}
+.header{    
     padding-top: 40px;
-  }
-  ul{
+}
+ul.header_u{
     display: flex;
-    justify-content: center;
-  }
-
-a.l_196 { 
-    width: 196px;
-    margin-right: 0px;
+    justify-content: space-between;
+}
+.iten{
     display: block;
     color: #D1D1D1;
     text-decoration: none;
-    text-align: right;
 }
+a.iten:hover{
+    color: #676767;
+ }
+    
 .t_r{
     text-align: right;
     margin-left: auto;
-}
-li a.menu{
-    width: 306px;
-    margin-right: 61px;
-    color: #D1D1D1;
-    display: block;
-}
-a.menu:hover, a.l_196:hover{
-    color: #676767;
 }
 
 .people{
