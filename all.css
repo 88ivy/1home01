@@ -248,15 +248,15 @@ a.contactme:hover{
     white-space: nowrap;
 }
 .a_icon1{
-    background-image: url("img/discord.png");
+    background-image: url(img/discord.png);
     background-position: -19px -19pX;
 }
 .a_icon2{
-    background-image: url("img/instagram.png");
+    background-image: url(img/instagram.png);
         background-position: -4px -4pX;
 }
 .a_icon3{
-    background-image: url("img/message.png");
+    background-image: url(img/message.png);
     background-position: -4px -4pX;
 }
 a.imghover:hover{
